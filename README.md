@@ -18,7 +18,7 @@
   <img align="left" alt="Vanshika's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-- 💬 Happy to help anytime!
+### 💬 Happy to help anytime!
 - Open Source enthusiast
 
 ## :rainbow: Have a good day!
