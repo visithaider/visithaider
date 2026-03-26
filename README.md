@@ -25,7 +25,7 @@
 
 ## :rainbow: Have a good day!
 <a href="https://huggingface.co/visithaider">
-  <img align="left" alt="Haider's Huggingface" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/huggingface.svg" />
+  <img align="left" alt="Haider's Huggingface" width="22px" src="https://simpleicons.org/icons/huggingface.svg" />
 </a>
 </br>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Visithaider alt=Visithaider/></p>
