@@ -12,14 +12,20 @@
 ### Connect with me here:  
 
 <a href="https://www.linkedin.com/in/haider-ali-41874438/">
-  <img align="left" alt="Vanshika's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Haider's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/visithaider">
-  <img align="left" alt="Vanshika's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Haider's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 </br>
+</br>
+
 ### 💬 Happy to help anytime!
 - Open Source enthusiast
 
 ## :rainbow: Have a good day!
+<a href="https://huggingface.co/visithaider">
+  <img align="left" alt="Haider's Huggingface" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/huggingface.svg" />
+</a>
+</br>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Visithaider alt=Visithaider/></p>
